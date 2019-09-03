@@ -1,0 +1,52 @@
+{
+  "name": "slot",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "animejs": "^3.0.1",
+    "async": "^2.6.2",
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "fetch": "^1.1.0",
+    "jquery": "^3.4.1",
+    "json-bigint": "^0.3.0",
+    "mysql2": "^1.6.5",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.1",
+    "react": "^16.8.6",
+    "react-anime": "^2.2.0",
+    "react-cookie": "^3.1.2",
+    "react-dom": "^16.8.6",
+    "react-modal": "^3.8.1",
+    "react-redux": "^6.0.1",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "rxjs": "^5.5.2",
+    "sequelize": "^5.2.12",
+    "styled-components": "^4.2.0",
+    "universal-cookie-express": "^3.1.0",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
+    "@babel/register": "^7.4.0"
+  }
+}
